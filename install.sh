@@ -9,7 +9,6 @@ LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
 KVANTUM_DIR="$HOME/.config/Kvantum"
 
 THEME_NAME=Inverse
-COLOR_VARIANTS=('' '-light')
 
 install() {
   local name=${1}
@@ -47,8 +46,6 @@ install() {
 
 echo "Installing 'Inverse kde themes'..."
 
-for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
-  install "${name:-${THEME_NAME}}" "${color}"
-done
+install "${name:-${THEME_NAME}}"
 
 echo "Install finished..."
