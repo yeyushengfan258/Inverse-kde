@@ -1,5 +1,5 @@
 
-McMojave sddm theme for KDE Plasma desktop.
+Inverse sddm theme for KDE Plasma desktop.
 
 ## Installation
 

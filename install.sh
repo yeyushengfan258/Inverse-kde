@@ -41,7 +41,7 @@ install() {
   cp -ur ${SRC_DIR}/color-schemes/Inverse.colors                                    ${PLASMA_DIR}/${name}/colors
 
   [[ ${color} == '-light' ]] && \
-  cp -ur ${SRC_DIR}/color-schemes/InverseLight.colors                               ${SCHEMES_DIR}
+  cp -ur ${SRC_DIR}/color-schemes/Inverse.colors                               ${SCHEMES_DIR}
 }
 
 echo "Installing 'Inverse kde themes'..."

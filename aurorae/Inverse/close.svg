@@ -433,13 +433,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1884"
+     inkscape:window-width="1920"
      inkscape:window-height="1019"
      id="namedview27"
      showgrid="true"
-     inkscape:zoom="10.727273"
-     inkscape:cx="23.069422"
-     inkscape:cy="-41.16454"
+     inkscape:zoom="7.5853273"
+     inkscape:cx="41.490305"
+     inkscape:cy="6.5394777"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -731,14 +731,14 @@
            ry="6.0000005"
            rx="6"
            id="ellipse6508"
-           style="display:inline;opacity:0.95;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:1;fill:#969696;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            cx="1302"
            cy="255" />
         <path
            inkscape:connector-curvature="0"
            id="path6510"
            d="m 1302,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-           style="display:inline;opacity:0.15;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="display:inline;opacity:0;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            style="fill:#c0e3ff;fill-opacity:1"
            transform="translate(1294,247)"
