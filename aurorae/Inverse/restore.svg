@@ -103,14 +103,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1023"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="10.727272"
-     inkscape:cx="39.164949"
-     inkscape:cy="4.0478165"
+     inkscape:zoom="10.727273"
+     inkscape:cx="22.431895"
+     inkscape:cy="4.0478162"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306">
     <inkscape:grid
@@ -224,7 +224,7 @@
         <ellipse
            cy="255"
            cx="1302"
-           style="display:inline;opacity:1;fill:#969696;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="ellipse6448"
            rx="6"
            ry="6.0000005" />
