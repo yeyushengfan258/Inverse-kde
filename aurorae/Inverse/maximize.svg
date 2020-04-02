@@ -30,6 +30,18 @@
   <defs
      id="defs22">
     <linearGradient
+       id="linearGradient1174"
+       inkscape:collect="always">
+      <stop
+         id="stop1170"
+         offset="0"
+         style="stop-color:#7dffdb;stop-opacity:1" />
+      <stop
+         id="stop1172"
+         offset="1"
+         style="stop-color:#8af2d4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient963">
       <stop
@@ -120,6 +132,15 @@
        x2="1308.0524"
        y2="249.01385"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1174"
+       id="linearGradient1168"
+       gradientUnits="userSpaceOnUse"
+       x1="1295.8976"
+       y1="261.20898"
+       x2="1307.8976"
+       y2="249.209" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -131,14 +152,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1017"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="10.727273"
-     inkscape:cx="5.6264557"
-     inkscape:cy="-2.7270365"
+     inkscape:zoom="15.170655"
+     inkscape:cx="35.174527"
+     inkscape:cy="7.8790386"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306">
     <inkscape:grid
@@ -426,7 +447,7 @@
         <ellipse
            cy="255"
            cx="1302"
-           style="display:inline;opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:1;fill:url(#linearGradient1168);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="ellipse6448"
            rx="6"
            ry="6.0000005" />
