@@ -14,7 +14,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="minimize.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -28,18 +28,6 @@
   </metadata>
   <defs
      id="defs24">
-    <linearGradient
-       id="linearGradient1234"
-       inkscape:collect="always">
-      <stop
-         id="stop1230"
-         offset="0"
-         style="stop-color:#ffd8b9;stop-opacity:1" />
-      <stop
-         id="stop1232"
-         offset="1"
-         style="stop-color:#ffeca5;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient971">
@@ -142,15 +130,6 @@
        x2="1279"
        y2="249"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1234"
-       id="linearGradient1228"
-       gradientUnits="userSpaceOnUse"
-       x1="1267.3445"
-       y1="260.93948"
-       x2="1279.3445"
-       y2="248.93948" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -162,16 +141,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1023"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="15.170655"
      inkscape:cx="26.564776"
      inkscape:cy="3.0651315"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4306">
+     inkscape:current-layer="svg4306"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid949" />
@@ -458,7 +438,7 @@
         <ellipse
            cy="255"
            cx="1273"
-           style="display:inline;opacity:1;fill:url(#linearGradient1228);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:0.2;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="ellipse6478"
            rx="6"
            ry="6.0000005" />

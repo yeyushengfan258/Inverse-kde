@@ -14,7 +14,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="close.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata31">
     <rdf:RDF>
@@ -29,18 +29,6 @@
   </metadata>
   <defs
      id="defs29">
-    <linearGradient
-       id="linearGradient1268"
-       inkscape:collect="always">
-      <stop
-         id="stop1264"
-         offset="0"
-         style="stop-color:#ffbba4;stop-opacity:1" />
-      <stop
-         id="stop1266"
-         offset="1"
-         style="stop-color:#ffa5cb;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1777">
@@ -435,15 +423,6 @@
        x2="1308.1082"
        y2="249.19099"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1268"
-       id="linearGradient1262"
-       gradientUnits="userSpaceOnUse"
-       x1="1295.8684"
-       y1="261.26367"
-       x2="1307.8684"
-       y2="249.26367" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -455,16 +434,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1023"
      id="namedview27"
      showgrid="true"
      inkscape:zoom="5.3636364"
      inkscape:cx="11.200216"
      inkscape:cy="-16.366492"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4306">
+     inkscape:current-layer="svg4306"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid878" />
@@ -752,7 +732,7 @@
            ry="6.0000005"
            rx="6"
            id="ellipse6508"
-           style="display:inline;opacity:1;fill:url(#linearGradient1262);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="display:inline;opacity:0.2;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            cx="1302"
            cy="255" />
         <path
