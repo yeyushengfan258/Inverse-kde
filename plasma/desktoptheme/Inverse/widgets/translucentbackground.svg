@@ -14,7 +14,7 @@
    viewBox="0 0 121 56"
    id="svg177"
    sodipodi:docname="translucentbackground.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata181">
     <rdf:RDF>
@@ -23,12 +23,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#969696"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -37,16 +36,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1048"
      id="namedview179"
      showgrid="false"
-     inkscape:zoom="7.1239669"
-     inkscape:cx="10.7279"
-     inkscape:cy="37.58935"
+     inkscape:zoom="10.074811"
+     inkscape:cx="34.899212"
+     inkscape:cy="23.958342"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg177" />
+     inkscape:current-layer="svg177"
+     inkscape:document-rotation="0" />
   <defs
      id="defs30">
     <linearGradient
@@ -485,7 +485,7 @@
      id="top"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.8;fill:#fafafa;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.25;fill:#ffffff"
        id="rect42"
        height="32"
        width="6"
@@ -517,7 +517,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="color:#eff0f1;opacity:0.8;fill:#fafafa;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.25;fill:#ffffff"
        d="m 19,6 c -3.324,0 -6,2.676 -6,6 h 4 1 1 V 11 7 Z"
        transform="translate(0,904.36)"
        id="path55" />
@@ -526,7 +526,7 @@
      id="bottom"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.8;fill:#fafafa;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.25;fill:#ffffff"
        id="rect69"
        height="32"
        width="6"
@@ -547,7 +547,7 @@
      id="left"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.8;fill:#fafafa;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.25;fill:#ffffff"
        id="rect96"
        height="32"
        width="6"
@@ -568,7 +568,7 @@
      id="right"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.8;fill:#fafafa;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.25;fill:#ffffff"
        id="rect101"
        height="32"
        width="6"
@@ -594,7 +594,7 @@
        y="916.35999"
        x="19" />
     <rect
-       style="color:#eff0f1;opacity:0.8;fill:#fafafa;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.25;fill:#ffffff"
        id="rect108"
        height="32"
        width="32"
@@ -635,7 +635,7 @@
   <g
      transform="translate(58,-904.36)"
      id="shadow-top"
-     style="opacity:0">
+     style="opacity:0.25">
     <rect
        style="fill:none"
        id="rect117"
@@ -664,7 +664,7 @@
   <g
      transform="translate(58,-904.36)"
      id="shadow-bottom"
-     style="opacity:0">
+     style="opacity:0.25">
     <rect
        style="fill:none"
        id="rect158"
@@ -693,7 +693,7 @@
   <g
      transform="translate(58,-904.36)"
      id="shadow-left"
-     style="opacity:0">
+     style="opacity:0.25">
     <rect
        style="fill:none"
        id="rect199"
@@ -722,7 +722,7 @@
   <g
      transform="translate(58,-904.36)"
      id="shadow-right"
-     style="opacity:0">
+     style="opacity:0.25">
     <rect
        style="fill:none"
        id="rect206"
@@ -746,7 +746,7 @@
        x="56" />
   </g>
   <g
-     style="opacity:0;fill:none"
+     style="opacity:0.25;fill:none"
      transform="translate(58,-904.36)"
      id="shadow-center">
     <rect
@@ -819,7 +819,7 @@
   <g
      id="shadow-topleft"
      transform="translate(58,-904.36218)"
-     style="opacity:0">
+     style="opacity:0.25">
     <path
        style="opacity:0.35;fill:url(#radialGradient1139);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 65,0 v 12 h 6 C 71,8.6760127 73.676013,6 77,6 V 0 Z"
@@ -862,7 +862,7 @@
      transform="rotate(90,93.000016,27.99998)"
      width="100%"
      height="100%"
-     style="opacity:0" />
+     style="opacity:1" />
   <use
      x="0"
      y="0"
@@ -871,7 +871,7 @@
      transform="matrix(1,0,0,-1,-7e-6,55.99992)"
      width="100%"
      height="100%"
-     style="opacity:0" />
+     style="opacity:1" />
   <use
      x="0"
      y="0"
@@ -880,5 +880,5 @@
      transform="rotate(-180,93.000005,27.999982)"
      width="100%"
      height="100%"
-     style="opacity:0" />
+     style="opacity:1" />
 </svg>

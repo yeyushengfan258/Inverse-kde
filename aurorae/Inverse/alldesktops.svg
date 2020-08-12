@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg4306"
-   width="22"
-   height="22"
-   version="1.1"
-   style="enable-background:new"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="alldesktops.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   style="enable-background:new"
+   version="1.1"
+   height="22"
+   width="22"
+   id="svg4306">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -29,144 +29,109 @@
   <defs
      id="defs24" />
   <sodipodi:namedview
-     pagecolor="#323232"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     id="namedview22"
-     showgrid="true"
-     inkscape:zoom="8.8068182"
-     inkscape:cx="40.583833"
-     inkscape:cy="8.8364388"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4306"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
+     inkscape:document-rotation="0"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:document-rotation="0">
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:current-layer="svg4306"
+     inkscape:window-maximized="1"
+     inkscape:window-y="65"
+     inkscape:window-x="0"
+     inkscape:cy="15.729555"
+     inkscape:cx="81.24051"
+     inkscape:zoom="12.454722"
+     showgrid="true"
+     id="namedview22"
+     inkscape:window-height="903"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#fafafa">
     <inkscape:grid
-       type="xygrid"
-       id="grid886" />
+       id="grid886"
+       type="xygrid" />
   </sodipodi:namedview>
   <g
      id="active-center">
     <rect
-       id="rect4266"
-       width="22"
-       height="22"
-       x="0"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="0"
-       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       x="0"
+       height="22"
+       width="22"
+       id="rect4266" />
     <circle
-       id="path4206"
-       cx="11"
+       style="opacity:1;fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="7"
        cy="11"
-       r="6"
-       style="opacity:1;fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="11"
+       id="path4206" />
   </g>
   <g
+     transform="translate(6)"
      id="inactive-center">
     <rect
-       id="rect4180"
-       width="22"
-       height="22"
-       x="69"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        y="0"
-       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       x="69"
+       height="22"
+       width="22"
+       id="rect4180" />
     <circle
-       style="opacity:0.2;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle4217"
-       cx="80"
+       r="7"
        cy="11"
-       r="6" />
+       cx="80"
+       id="circle4217"
+       style="opacity:0.2;fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
+     transform="translate(1.000001)"
      id="deactivated-center">
     <rect
-       id="rect4278"
-       width="22"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="2.9842795e-13"
+       x="98"
        height="22"
-       x="92"
-       y="0"
-       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       width="22"
+       id="rect4278" />
+    <circle
+       style="fill:#ffbe14;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:18;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="9"
+       cy="11"
+       cx="109"
+       id="circle4219" />
     <g
-       transform="matrix(1.375,0,0,1.375,-38.625,-4.125)"
-       id="g870">
-      <circle
-         style="opacity:1;fill:#ffbe14;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         r="6"
-         cy="11"
-         cx="103"
-         id="circle4219" />
-      <g
-         id="g884"
-         transform="matrix(0.65959493,0,0,0.65113827,38.325965,9.7284493)"
-         style="fill:#ffffff;fill-opacity:1">
-        <rect
-           ry="0.75804245"
-           y="-2.6528585"
-           x="97.293098"
-           height="7.1849241"
-           width="1.5160849"
-           id="rect876"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
-        <circle
-           r="0.7569747"
-           cy="5.8015079"
-           cx="98.050072"
-           id="path880"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.05297017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
-      </g>
+       id="g901"
+       transform="translate(-5.000001,-0.49359)">
+      <rect
+         ry="1"
+         y="7"
+         x="113"
+         height="6"
+         width="2"
+         id="rect876"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.09917;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         ry="0.98717999"
+         rx="1.000001"
+         cy="15"
+         cx="114"
+         id="path880"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.69463;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
   </g>
   <g
      id="pressed-center">
     <g
        id="g838"
-       transform="translate(45)">
+       transform="translate(50)">
       <rect
-         style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="0"
-         x="0"
-         height="22"
-         width="22"
-         id="rect836" />
-    </g>
-    <circle
-       r="11"
-       cy="11"
-       cx="56"
-       id="circle840"
-       style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4" />
-    <circle
-       r="8.25"
-       cy="11"
-       cx="56"
-       id="circle842"
-       style="opacity:1;fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle837"
-       cx="56"
-       cy="11"
-       r="3" />
-  </g>
-  <g
-     id="hover-center"
-     transform="translate(-22)">
-    <g
-       transform="translate(45)"
-       id="g890">
-      <rect
-         id="rect888"
+         id="rect836"
          width="22"
          height="22"
          x="0"
@@ -174,22 +139,50 @@
          style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <circle
-       style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0.4"
-       id="circle892"
-       cx="56"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.437;stroke-opacity:0.4"
+       id="circle840"
+       cx="61"
        cy="11"
        r="11" />
     <circle
-       style="opacity:1;fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle894"
-       cx="56"
+       style="fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:18;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle842"
+       cx="61"
        cy="11"
-       r="8.25" />
+       r="9" />
     <circle
-       r="3"
+       r="4"
        cy="11"
-       cx="56"
+       cx="61"
+       id="circle837"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="hover-center">
+    <rect
+       id="rect888"
+       width="22"
+       height="22"
+       x="25"
+       y="0"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11"
+       cy="11"
+       cx="36"
+       id="circle892"
+       style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.437;stroke-opacity:0.4" />
+    <circle
+       r="9"
+       cy="11"
+       cx="36"
+       id="circle894"
+       style="fill:#14c8ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:18;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle835"
-       style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="36"
+       cy="11"
+       r="4" />
   </g>
 </svg>
